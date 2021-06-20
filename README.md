@@ -1,1 +1,84 @@
 # IG_GUI_Brutter
+
+<p align="center">
+  <img width="450" high="650" alt="Screen Shot 2021-06-17 at 8 14 48 PM" src="https://user-images.githubusercontent.com/73632576/122685593-65e01180-d21d-11eb-96f0-e805da223447.png">
+</p>
+
+<p align="center">
+   <img src="https://img.shields.io/badge/language-python-blue?style"/>
+   <img src="https://img.shields.io/github/license/ShyGorilla/IG_GUI_Brutter"/>
+   <img src="https://img.shields.io/github/stars/ShyGorilla/IG_GUI_Brutter"/>
+   <img src="https://img.shields.io/github/forks/ShyGorilla/IG_GUI_Brutter"/>
+</p>
+
+<p align="center">
+    <a href="https://github.com/ShyGorilla/IG_GUI_Brutter/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/ShyGorilla/IG_GUI_Brutter/issues">Request Feature</a>
+  </p>
+ 
+ <p align="center">
+  <img width="450" high="650" alt="Screen Shot 2021-06-17 at 8 14 48 PM" src="https://img.shields.io/badge/From%20ShyGorilla%20I've%20written-1.3%20million%20Lines%20of%20code-blue">
+  </p>
+
+ <p align="center">
+YOU ARE RESPONSIBLE FOR YOUR OWN ACTIONS!!!
+</p>
+
+
+## What is Instagram Brutter ? 
+Instagram Brutter is a tool that can do a Brute Force attack for instagram accounts. You should use a VPN for this to Hide your information from the target side. This Application will automaticly save your sessions and will store all passwords you have tried in the exel document. If the password found for the user, you can receive an email if you entered. But if you don't want to receive an email you can just leave the input empty.
+
+Download Chromedriver : https://chromedriver.chromium.org/downloads
+
+You have to check your browser version From ( Settings -> About ). Then insert the driver to driver folder.
+
+## Supported OS 💻
+
+![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
+![Mac](http://img.shields.io/badge/-Mac-0078D6?style=flat-square&logo=apple&logoColor=ffffff)
+
+## Coding languages 💻
+
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;
+
+## Build and install 🛠️
+
+1. Cloninng the tool
+
+```bash
+git clone https://github.com/ShyGorilla/IG_GUI_Brutter.git
+```
+
+2. Change the directory to the tool
+
+```bash
+cd IG_GUI_Brutter
+```
+
+3. Installing the requirements
+
+```bash
+pip3 install -r requirements.txt
+```
+
+4. To run the tool
+
+```bash
+python3 ig_brutter.py 
+```
+
+Whenever you get a waiting message for 10 minutes, reset your VPN to get a new ip.
+
+## Usage 🛠️
+
+You can run the tool by using the terminal. After running the tool, just insert your username and email if you want to get the password in your email. Then after inserting these two, you can browse your files to get the wordlist text file. Then just start attacking.
+
+ <h3 align="center">
+Screenshots
+ </h3>
+
+ <p align="center">
+<img width="450" high="650" alt="Screen Shot 2021-06-17 at 8 14 48 PM" src="https://user-images.githubusercontent.com/73632576/122685563-30d3bf00-d21d-11eb-95d6-64cc60d147d3.JPG">
+ </p>
+
