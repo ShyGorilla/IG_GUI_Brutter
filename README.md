@@ -24,8 +24,7 @@
  <p align="center">
   <img width="450" high="650" alt="Screen Shot 2021-06-17 at 8 14 48 PM" src="https://img.shields.io/badge/From%20ShyGorilla%20I've%20written-+500k%20Lines%20of%20code-blue">
   </p>
-  
-  ![Made with love in UAE](https://madewithlove.vercel.app/ae?heart=true&template=for-the-badge)
+
 
  <p align="center">
 YOU ARE RESPONSIBLE FOR YOUR OWN ACTIONS!!!
