@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <img src='https://img.shields.io/github/license/shygorilla/browser_scroller'/>
    <img src="https://img.shields.io/badge/language-python-blue?style"/>
+  <img src='https://img.shields.io/github/license/shygorilla/IG_GUI_Brutter'/>
    <img src="https://img.shields.io/github/stars/shygorilla/ig_gui_brutter"/>
    <img src="https://img.shields.io/github/forks/shygorilla/ig_gui_brutter"/>
 </p>
