@@ -1,4 +1,6 @@
-# IG_GUI_Brutter
+<h1 align="center">
+IG_GUI_Brutter
+</h1>
 
 <p align="center">
   <img width="450" high="650" alt="Screen Shot 2021-06-17 at 8 14 48 PM" src="https://user-images.githubusercontent.com/73632576/122685593-65e01180-d21d-11eb-96f0-e805da223447.png">
