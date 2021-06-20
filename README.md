@@ -18,7 +18,7 @@
   </p>
  
  <p align="center">
-  <img width="450" high="650" alt="Screen Shot 2021-06-17 at 8 14 48 PM" src="https://img.shields.io/badge/From%20ShyGorilla%20I've%20written-1.3%20million%20Lines%20of%20code-blue">
+  <img width="450" high="650" alt="Screen Shot 2021-06-17 at 8 14 48 PM" src="https://img.shields.io/badge/From%20ShyGorilla%20I've%20written-+500k%20Lines%20of%20code-blue">
   </p>
 
  <p align="center">
