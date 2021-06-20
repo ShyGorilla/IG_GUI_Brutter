@@ -60,7 +60,7 @@ cd IG_GUI_Brutter
 
 ```bash
 pip3 install -r requirements.txt
-pip3 install tkinter 
+pip3 install tk 
 ```
 
 4. To run the tool
