@@ -6,9 +6,9 @@
 
 <p align="center">
    <img src="https://img.shields.io/badge/language-python-blue?style"/>
-   <img src="https://img.shields.io/github/license/ShyGorilla/IG_GUI_Brutter"/>
-   <img src="https://img.shields.io/github/stars/ShyGorilla/IG_GUI_Brutter"/>
-   <img src="https://img.shields.io/github/forks/ShyGorilla/IG_GUI_Brutter"/>
+   <img src="https://img.shields.io/github/license/shygorilla/ig_gui_brutter"/>
+   <img src="https://img.shields.io/github/stars/shygorilla/ig_gui_brutter"/>
+   <img src="https://img.shields.io/github/forks/shygorilla/ig_gui_brutter"/>
 </p>
 
 <p align="center">
