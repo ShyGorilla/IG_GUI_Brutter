@@ -73,7 +73,7 @@ Whenever you get a waiting message for 10 minutes, reset your VPN to get a new i
 
 ## Usage 🛠️
 
-You can run the tool by using the terminal. After running the tool, just insert your username and email if you want to get the password in your email. Then after inserting these two, you can browse your files to get the wordlist text file. Then just start attacking.
+You can run the tool by using the terminal. After running the tool, just insert target username and your email if you want to get the password in your email. Then after inserting these two, you can browse your files to get the wordlist text file. Then just start attacking.
 
  <h3 align="center">
 Screenshots
