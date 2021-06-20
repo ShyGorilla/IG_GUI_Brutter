@@ -1,5 +1,5 @@
 <h1 align="center">
-IG_GUI_Brutter
+INSTAGRAM GUI BRUTTER
 </h1>
 
 <p align="center">
