@@ -25,11 +25,11 @@ username = Entry(window, width = 20)
 username.configure(bg='black', foreground="white", highlightbackground='red')
 username.place(x = 110,y = 280)
 
-text1 = Label(window, text = "saffsgfdg", width = 25)
+text1 = Label(window, text = "Username:", width = 25)
 text1.configure(bg='black', foreground="white")
 text1.place(x = 60,y = 445)
 
-text2 = Label(window, text = "Username", width = 25)
+text2 = Label(window, text = "Password:", width = 25)
 text2.configure(bg='black', foreground="white")
 text2.place(x = 60,y = 470)
 
