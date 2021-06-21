@@ -34,7 +34,7 @@ YOU ARE RESPONSIBLE FOR YOUR OWN ACTIONS!!!
 
 
 ## What is Instagram Brutter ? 
-Instagram Brutter is a tool that can do a Brute Force attack for instagram accounts. You should use a VPN for this to Hide your information from the target side. This tool will automaticly save your sessions and will store all passwords you have tried in the exel document. If the password found for the user, you can receive an email if you entered. But if you don't want to receive an email you can just leave the input empty.
+Instagram Brutter is a tool that can do a Brute Force attack for Instagram accounts. You should use a VPN for this to Hide your information from the target side. This tool will automaticly save your sessions and will store all passwords you have tried in the exel document. 
 
 Download Chromedriver : https://chromedriver.chromium.org/downloads
 
@@ -80,13 +80,13 @@ Whenever you get a waiting message for 10 minutes, reset your VPN to get a new i
 
 ## Usage 🛠️
 
-You can run the tool by using the terminal. After running the tool, just insert target username and your email if you want to get the password in your email. Then after inserting these two, you can browse your files to get the wordlist text file. Then just start attacking.
+You can run the tool by using the terminal. After running the tool, just insert target username. Then after inserting target username, you can browse your files to get the wordlist text file. Then just start attacking.
 
  <h3 align="center">
 Screenshots
  </h3>
 
  <p align="center">
-<img width="450" high="650" alt="Screen Shot 2021-06-17 at 8 14 48 PM" src="https://user-images.githubusercontent.com/73632576/122685563-30d3bf00-d21d-11eb-95d6-64cc60d147d3.JPG">
+<img width="450" high="650" alt="Screen Shot 2021-06-17 at 8 14 48 PM" src="https://user-images.githubusercontent.com/73632576/122747807-87cca900-d29c-11eb-87aa-cf872f4dd57b.PNG">
  </p>
 
